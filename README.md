@@ -1,3 +1,3 @@
 use m3u player like Ott Navigator, TViMate, Kodi 
 
-to apply these Link: https://t.ly/mlm
+to apply use these Link: https://t.ly/mlm
